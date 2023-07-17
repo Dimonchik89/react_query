@@ -1,0 +1,44 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Learn React Query",
+      "completed": false
+    },
+    {
+      "title": "React 18",
+      "completed": true,
+      "id": 2
+    },
+    {
+      "title": "NextJS",
+      "completed": false,
+      "id": 3
+    },
+    {
+      "title": "Vue",
+      "completed": true,
+      "id": 4
+    },
+    {
+      "title": "Hello",
+      "completed": false,
+      "id": 5
+    },
+    {
+      "title": "lorem",
+      "completed": false,
+      "id": 6
+    },
+    {
+      "title": "New",
+      "completed": false,
+      "id": 7
+    },
+    {
+      "title": "new1",
+      "completed": false,
+      "id": 8
+    }
+  ]
+}
